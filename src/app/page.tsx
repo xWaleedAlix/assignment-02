@@ -4,7 +4,7 @@ const page = () => {
   return(
     <div>
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-  <img className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="https://cdn.dribbble.com/userupload/11342614/file/original-03cb95a65887d5e89f0fa44583962e82.jpg?crop=312x0-1752x1080&resize=400x300&vertical=center" alt="" width="384" height="512" ></img>
+  <img className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="\man.png" alt="" width="384" height="512" ></img>
   <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
