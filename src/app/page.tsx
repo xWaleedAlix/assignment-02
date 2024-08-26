@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div>
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-        <image 
+        <img 
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/man.png" alt="A person" width="100"height="100"/>
         <div className="pt-6 md:p-8 text-center space-y-4">
           <blockquote>
